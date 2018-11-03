@@ -10,7 +10,9 @@ Input format
 
 1) Hash List
 This is a text file (.txt) which contains md5 hashes in each row (1 per row).
+
 Ex. 32250170a0dca92d53ec9624f336ca24
+    
     e478ddc1ba129099a60026680a29f912
 
 2) Dictionary 
