@@ -13,11 +13,11 @@ import java.util.ArrayList;
 public class Md5 { 
 	public static void main(String args[]) throws NoSuchAlgorithmException, IOException { 
     	
-    	ArrayList<String> hashes = new ArrayList<String>();//jashes
-    	ArrayList<String> results = new ArrayList<String>();//dictionary
+    	ArrayList<String> hashes = new ArrayList<String>();//Hashes List
+    	ArrayList<String> results = new ArrayList<String>();//Dictionary
     	
-    	File file = new File("D:/Eclipse/eclipse/Workspace/hash/pass.txt"); 
-    	File file1 = new File("D:/Eclipse/eclipse/Workspace/hash/results.txt"); 
+    	File file = new File("HASH_LIST_TXT_FILE_PATH_GOES_HERE"); 
+    	File file1 = new File("DICTIONARY_TXT_FILE_PATH_GOES_HERE"); 
     	 
     	BufferedReader br = new BufferedReader(new FileReader(file)); 
     	BufferedReader br1 = new BufferedReader(new FileReader(file1));
