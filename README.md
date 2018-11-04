@@ -23,3 +23,4 @@ This is also a text file (.txt)which contains the hash and the password in each 
 e478ddc1ba129099a60026680a29f912 123456789
 
 **Before you execute the algorithm be sure you have change the path of the input files.
+***USAGE ONLY FOR EDUCATIONAL PURPOSES
