@@ -4,7 +4,7 @@ MD5 Password Hashing Cracking in Java.
 
 This algorithm takes 2 input files.
 1) The list of the hashes to search
-2) The dictionary
+2) The Rainbow Table
 
 Input format
 
@@ -15,8 +15,8 @@ This is a text file (.txt) which contains md5 hashes in each row (1 per row) lik
 
 e478ddc1ba129099a60026680a29f912
 
-2) Dictionary 
-This is also a text file (.txt)which contains the hash and the password in each row (1 per row) like below:
+2) Rainbow Table 
+This is also a text file (.txt) which contains the hash and the password in each row (1 per row) like below:
 
 32250170a0dca92d53ec9624f336ca24 pass123
 
