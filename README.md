@@ -1,4 +1,4 @@
-# Password-Hashing-Cracking
+# MD5 Password Cracker
 
 MD5 Password Hashing Cracking in Java.
 
